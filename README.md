@@ -1,2 +1,4 @@
 # TNM091
 Immersive dome movie
+
+The film is a interactive movie which is divided into four parts, where three major environments are presented to the audience through the opportunity to travel through time and space. It begins with the present as the first environment. Then the audience is offered the opportunity to choose whether they want to explore the future or the past first by selecting a portal to go through. Regardless of their choice, they will return to the option to explore both the future and the past, allowing them to make the same choice again. Once the audience has explored both time periods, they are led to the concluding scene, which is a place beyond the boundaries of time.
